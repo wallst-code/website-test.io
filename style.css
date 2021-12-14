@@ -22,16 +22,22 @@ body {
 /* Container Div */
 .container {
   text-align: center;
+  padding-top: 2em;
   
 }
 
 /* nav links */
-#navlink {
+.navlink {
   color: white;
   text-decoration: none;
   text-align: center;
   padding-left: 10px;
   /* hover effect */
+}
+
+/* keeps the current active page highlighted */
+#active {
+  background-color: rgb(76, 175, 80);
 }
 
 /* Crop the Image & align - controls #headshot */
@@ -46,7 +52,7 @@ body {
 }
 
 /* image-spacer */
-#image-spacer {
+.image-spacer {
   padding-bottom: 10px;
 }
 
@@ -75,3 +81,9 @@ li a:hover {
   background-color: rgb(76, 175, 80);
 }
 
+/* contact link colors removes the old school look*/
+.contact-text {
+  text-decoration: none;
+  color:black;
+  cursor: pointer;
+}
