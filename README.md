@@ -9,5 +9,5 @@ Summary
 I am learning how to code and how to become a software developer. This is a pretty basic project, but every journey starts with the first step. 
 
 Author
-Senit Lutgen - working on becoming a full-stack developer. 
+Senit Lutgen - working on becoming a full-stack developer. <a href="https://www.linkedin.com/in/senit-lutgen-442304227/">Linkedin Profile</a>
 <img width="1753" alt="image" src="https://user-images.githubusercontent.com/69335472/146016063-e52cae51-5b41-4f0e-adbe-a14a9ebc8116.png">
